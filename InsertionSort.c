@@ -3,6 +3,7 @@
 int main() {
     clock_t begin=clock();
     int arr[]={5,9,7,132,4,0,34,100,67,43,21,2,54,3};
+    // to take user input
     //int n;
     //printf("Enter the number of elements: ");
     //scanf("%d", &n);
